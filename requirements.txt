@@ -1,0 +1,1 @@
+By otworzyć projekt należy posiadać kompilator pythona z zainstalowanym Panda 3D
